@@ -1,11 +1,10 @@
-﻿using System;
+using System;
 using System.Data;
 using System.Collections.Generic;
 using DAL;
 
 namespace BLservice
 {
-    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Rpt_Transaction_Detail" in code, svc and config file together.
     public class Rpt_Transaction_Detail
     {
         #region Default Constructor
