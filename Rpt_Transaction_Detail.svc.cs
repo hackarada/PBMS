@@ -25,15 +25,10 @@ namespace BLservice
         public string withdrawDate { set; get; }
         public string withdrawReceiver { set; get; }
 
-        //int withdrawId { set; get; }
-        //string projectCode { set; get; }
         public string projectName { set; get; }
         public string StartDate { set; get; }
         public string EndDate { set; get; }
         public string ReportGeneratedDate { set; get; }
-        //int expenditureId { set; get; }
-        //int requestId { set; get; }
-        //int requesterId { set; get; }
 
         #endregion
 
